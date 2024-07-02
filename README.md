@@ -1,5 +1,8 @@
 https://nba-legends-merve86.netlify.app
 
+![nba-legends-merve](https://github.com/merve-86/nba-legends/assets/154313391/9e807b6e-9f41-465e-bb5a-fc40c4e018f5)
+
+
 # Getting Started with Create React App
 
 
